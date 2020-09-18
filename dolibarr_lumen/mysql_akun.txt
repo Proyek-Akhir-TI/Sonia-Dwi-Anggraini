@@ -1,0 +1,4 @@
+localhost
+db:ti17198_dlrbar
+user:ti17198_dlrbar 
+pass:yk6jVOkA3CXs
