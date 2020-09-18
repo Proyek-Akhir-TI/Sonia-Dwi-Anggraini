@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+	<item
+		android:id="@+id/navigation_presensi"
+		android:icon="@drawable/ic_baseline_check_box_24"
+		android:title="@string/title_presensi" />
+
+	<item
+		android:id="@+id/navigation_kegiatan"
+		android:icon="@drawable/ic_baseline_map_24"
+		android:title="@string/title_kegiatan" />
+
+	<item
+		android:id="@+id/navigation_toko"
+		android:icon="@drawable/ic_baseline_storefront_24"
+		android:title="@string/title_toko" />
+
+	<item
+		android:id="@+id/navigation_pengantaran"
+		android:icon="@drawable/ic_baseline_airport_shuttle_24"
+		android:title="@string/title_pengantaran" />
+
+    <item
+        android:id="@+id/navigation_keluar"
+        android:icon="@drawable/ic_baseline_reply_all_24"
+        android:title="@string/title_logout" />
+
+</menu>

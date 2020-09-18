@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">UD DUA PUTRA</string>
+    <string name="app_name">Dolibarr</string>
+    <string name="title_home">Home</string>
+    <string name="title_presensi">Presensi</string>
+	<string name="title_toko">Toko</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="mengambil_data">Mengambil data ...</string>
+
+
+	<string name="location_label">Realtime Location</string>
+	<string name="loading">Loading…</string>
+	<string name="latitude">Latitude</string>
+	<string name="longitude">Longitude</string>
+	<string name="novalues">0.0</string>
+	<string name="metagetGPStxt">Get GPS From Device</string>
+	<string name="realtimegetGPStxt">Real Time Location</string>
+	<string name="infotext">Get real time position from deveice and send to a server witnin a 30 seconds interval. Receive acknowledgement from server when position is received</string>
+    <string name="ambil_foto">Ambil Foto</string>
+    <string name="kirim_pesensi">Kirim Presensi</string>
+	<string name="daftar_pesanan">Pesanan</string>
+	<string name="profil_toko">Profil</string>
+    <string name="title_kegiatan">Kegiatan</string>
+    <string name="kirim_kegiatan">Kirim Kegiatan</string>
+	<string name="cari">Cari...</string>
+    <string name="title_logout">Keluar</string>
+    <string name="title_pengantaran">Pengantaran</string>
 </resources>
